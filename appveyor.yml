@@ -1,0 +1,5 @@
+build_script:
+- appveyor DownloadFile http://nodejs.org/dist/v0.10.40/node-v0.10.40.tar.gz
+- appveyor DownloadFile http://nodejs.org/dist/v0.12.7/node-v0.12.7.tar.gz
+
+test: off
