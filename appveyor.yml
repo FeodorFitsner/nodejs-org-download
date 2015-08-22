@@ -1,4 +1,4 @@
-os: Default Azure
+#os: Default Azure
 
 build_script:
 - appveyor DownloadFile http://nodejs.org/dist/v0.10.40/node-v0.10.40.tar.gz
